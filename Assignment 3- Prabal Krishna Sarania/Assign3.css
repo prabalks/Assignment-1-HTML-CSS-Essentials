@@ -1,0 +1,35 @@
+*{margin: 0px;}
+
+.parent1{
+    width:100%;
+    height:auto;
+    background-color:black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.rbox{
+    height: 300px;
+    width: 15%;
+    background-color: red;
+    
+}
+
+.parent2{
+    width:100%;
+    background-color: black;
+    margin-top: 10px;
+
+}
+
+.gbox{
+    height: 300px;
+    width: 20%;
+    
+    background-color:grey;
+    display: inline-block;
+    margin-left: 4%;
+}
+
